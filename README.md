@@ -11,3 +11,5 @@ https://realpython.com/python-sockets/
 D. Kay's design recipe for Pythonistas
 https://www.ics.uci.edu/~kay/courses/31/design-recipe.html
 https://docs.python.org/3/
+
+looking for a project to join
