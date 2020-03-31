@@ -13,3 +13,5 @@ https://www.ics.uci.edu/~kay/courses/31/design-recipe.html
 https://docs.python.org/3/
 
 looking for a project to join
+
+Some topics that might interest are topics relating to cyber-security. An aspect of coding a team project I am interest in taking on is management or aspects of the project relating to cyber security.
